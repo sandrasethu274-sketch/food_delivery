@@ -1,7 +1,24 @@
 # Food Delivery Data Analysis
 
 ## Project Overview
-This project analyzes food delivery data using SQL.
+
+The Food Delivery SQL Analytics Project is developed using MySQL to analyze food delivery data and generate useful business insights. The project contains data related to users, restaurants, food items, menus, and orders.
+
+The project focuses on analyzing customer orders, restaurant performance, food sales, revenue, payment methods, and monthly order trends. SQL queries are used to retrieve, organize, and analyze the data using basic and advanced SQL concepts.
+
+## Project Objectives
+
+* To analyze food delivery orders using MySQL.
+* To understand customer ordering and spending patterns.
+* To identify the top-performing restaurants and food items.
+* To analyze revenue and sales performance.
+* To identify the most popular food categories.
+* To analyze different payment methods used by customers.
+* To calculate average order value across different cities.
+* To identify repeat customers.
+* To analyze monthly revenue and order trends.
+* To apply SQL concepts such as joins, aggregate functions, subqueries, CTEs, and window functions.
+* To create views and stored procedures for efficient data analysis.
 
 ## Dataset
 The project contains:
@@ -16,24 +33,4 @@ The project contains:
 - SQL
 - GitHub
 
-## SQL Concepts Used
-- SELECT
-- WHERE
-- GROUP BY
-- ORDER BY
-- JOIN
-- Subqueries
-- CTE
-- Window Functions
-- Aggregate Functions
 
-## Project Questions
-- Find the top restaurants by revenue
-- Find the most ordered food items
-- Find repeat customers
-- Calculate total revenue
-- Analyze monthly revenue
-- Rank restaurants based on revenue
-
-## Author
-Sandra
