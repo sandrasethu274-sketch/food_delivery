@@ -1,0 +1,101 @@
+food_id,food_name,category,price,veg
+1,Chicken Biryani,Biryani,629,No
+2,Veg Biryani,Biryani,419,No
+3,Margherita Pizza,Pizza,108,No
+4,Chicken Burger,Burger,347,No
+5,Paneer Butter Masala,Main Course,262,Yes
+6,Masala Dosa,South Indian,351,No
+7,Chicken Fried Rice,Rice,524,No
+8,Veg Noodles,Noodles,433,Yes
+9,Chicken Shawarma,Wrap,401,Yes
+10,Paneer Wrap,Wrap,603,No
+11,Fish Curry Meal,Meals,274,No
+12,Parotta Beef Curry,Kerala,340,No
+13,Veg Fried Rice,Rice,125,No
+14,Prawn Biryani,Biryani,526,No
+15,Chicken Tikka,Starter,81,No
+16,Gobi Manchurian,Chinese,612,Yes
+17,Pasta Alfredo,Pasta,631,Yes
+18,Mushroom Pizza,Pizza,281,Yes
+19,Idli Sambar,South Indian,151,Yes
+20,Vada,Snack,418,No
+21,Chicken 65,Starter,401,No
+22,Paneer Tikka,Starter,207,No
+23,Egg Fried Rice,Rice,387,No
+24,Cheese Burger,Burger,599,No
+25,French Fries,Sides,396,Yes
+26,Chicken Biryani 2,Biryani,414,No
+27,Veg Biryani 2,Biryani,492,No
+28,Margherita Pizza 2,Pizza,382,Yes
+29,Chicken Burger 2,Burger,276,No
+30,Paneer Butter Masala 2,Main Course,510,Yes
+31,Masala Dosa 2,South Indian,468,Yes
+32,Chicken Fried Rice 2,Rice,258,No
+33,Veg Noodles 2,Noodles,388,Yes
+34,Chicken Shawarma 2,Wrap,80,No
+35,Paneer Wrap 2,Wrap,295,Yes
+36,Fish Curry Meal 2,Meals,409,No
+37,Parotta Beef Curry 2,Kerala,556,No
+38,Veg Fried Rice 2,Rice,532,No
+39,Prawn Biryani 2,Biryani,532,No
+40,Chicken Tikka 2,Starter,298,No
+41,Gobi Manchurian 2,Chinese,603,Yes
+42,Pasta Alfredo 2,Pasta,253,Yes
+43,Mushroom Pizza 2,Pizza,370,Yes
+44,Idli Sambar 2,South Indian,423,No
+45,Vada 2,Snack,320,No
+46,Chicken 65 2,Starter,397,No
+47,Paneer Tikka 2,Starter,310,No
+48,Egg Fried Rice 2,Rice,283,No
+49,Cheese Burger 2,Burger,230,No
+50,French Fries 2,Sides,105,No
+51,Chicken Biryani 3,Biryani,566,No
+52,Veg Biryani 3,Biryani,154,No
+53,Margherita Pizza 3,Pizza,546,Yes
+54,Chicken Burger 3,Burger,279,No
+55,Paneer Butter Masala 3,Main Course,473,Yes
+56,Masala Dosa 3,South Indian,329,No
+57,Chicken Fried Rice 3,Rice,85,No
+58,Veg Noodles 3,Noodles,189,Yes
+59,Chicken Shawarma 3,Wrap,304,No
+60,Paneer Wrap 3,Wrap,610,Yes
+61,Fish Curry Meal 3,Meals,650,No
+62,Parotta Beef Curry 3,Kerala,335,No
+63,Veg Fried Rice 3,Rice,204,No
+64,Prawn Biryani 3,Biryani,547,No
+65,Chicken Tikka 3,Starter,216,No
+66,Gobi Manchurian 3,Chinese,555,Yes
+67,Pasta Alfredo 3,Pasta,404,Yes
+68,Mushroom Pizza 3,Pizza,533,Yes
+69,Idli Sambar 3,South Indian,596,Yes
+70,Vada 3,Snack,641,No
+71,Chicken 65 3,Starter,536,No
+72,Paneer Tikka 3,Starter,242,No
+73,Egg Fried Rice 3,Rice,566,No
+74,Cheese Burger 3,Burger,540,No
+75,French Fries 3,Sides,345,Yes
+76,Chicken Biryani 4,Biryani,363,No
+77,Veg Biryani 4,Biryani,613,No
+78,Margherita Pizza 4,Pizza,576,Yes
+79,Chicken Burger 4,Burger,361,No
+80,Paneer Butter Masala 4,Main Course,530,No
+81,Masala Dosa 4,South Indian,372,No
+82,Chicken Fried Rice 4,Rice,423,No
+83,Veg Noodles 4,Noodles,407,Yes
+84,Chicken Shawarma 4,Wrap,162,No
+85,Paneer Wrap 4,Wrap,316,Yes
+86,Fish Curry Meal 4,Meals,236,No
+87,Parotta Beef Curry 4,Kerala,299,No
+88,Veg Fried Rice 4,Rice,145,No
+89,Prawn Biryani 4,Biryani,504,No
+90,Chicken Tikka 4,Starter,497,No
+91,Gobi Manchurian 4,Chinese,418,Yes
+92,Pasta Alfredo 4,Pasta,505,No
+93,Mushroom Pizza 4,Pizza,510,Yes
+94,Idli Sambar 4,South Indian,100,Yes
+95,Vada 4,Snack,469,No
+96,Chicken 65 4,Starter,568,No
+97,Paneer Tikka 4,Starter,86,No
+98,Egg Fried Rice 4,Rice,440,No
+99,Cheese Burger 4,Burger,385,No
+100,French Fries 4,Sides,479,Yes

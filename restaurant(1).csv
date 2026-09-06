@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,cuisine,city,area,rating,delivery_time_min,is_open
+1,Spice Garden,Indian,Thrissur,MG Road,4.8,56,Yes
+2,Malabar Kitchen,Kerala,Bengaluru,Shoranur,3.6,51,No
+3,Burger Hub,Fast Food,Mumbai,MG Road,4.7,49,Yes
+4,Tandoori Tales,North Indian,Palakkad,Shoranur,3.7,35,Yes
+5,Pizza Point,Italian,Trivandrum,MG Road,4.5,47,No
+6,Green Bowl,Healthy,Hyderabad,Shoranur,3.8,28,No
+7,Curry House,Chinese,Kochi,MG Road,3.4,23,Yes
+8,Urban Bites,South Indian,Kozhikode,Shoranur,3.5,30,No
+9,Dosa Corner,Biryani,Chennai,MG Road,4.2,44,No
+10,Royal Biryani,Multi-Cuisine,Pune,Shoranur,4.2,49,Yes
+11,Coastal Treat,Indian,Thrissur,MG Road,4.9,20,Yes
+12,The Food Factory,Kerala,Bengaluru,Shoranur,4.4,54,Yes
+13,Cafe Aroma,Fast Food,Mumbai,MG Road,4.5,41,Yes
+14,Wok Express,North Indian,Palakkad,Shoranur,3.7,30,No
+15,Wrap World,Italian,Trivandrum,MG Road,3.2,36,Yes
+16,Grill Nation,Healthy,Hyderabad,Shoranur,4.1,26,Yes
+17,Kerala Flavours,Chinese,Kochi,MG Road,4.6,52,Yes
+18,Pasta Palace,South Indian,Kozhikode,Shoranur,3.5,30,Yes
+19,Fresh Feast,Biryani,Chennai,MG Road,4.2,51,Yes
+20,Chai & Snacks,Multi-Cuisine,Pune,Shoranur,3.4,43,Yes
+21,Spice Garden 2,Indian,Thrissur,MG Road,3.6,35,Yes
+22,Malabar Kitchen 2,Kerala,Bengaluru,Shoranur,3.3,51,Yes
+23,Burger Hub 2,Fast Food,Mumbai,MG Road,4.9,54,Yes
+24,Tandoori Tales 2,North Indian,Palakkad,Shoranur,3.4,50,Yes
+25,Pizza Point 2,Italian,Trivandrum,MG Road,3.7,58,No
+26,Green Bowl 2,Healthy,Hyderabad,Shoranur,4.8,54,Yes
+27,Curry House 2,Chinese,Kochi,MG Road,4.4,45,Yes
+28,Urban Bites 2,South Indian,Kozhikode,Shoranur,3.9,53,No
+29,Dosa Corner 2,Biryani,Chennai,MG Road,3.4,34,Yes
+30,Royal Biryani 2,Multi-Cuisine,Pune,Shoranur,3.8,57,Yes
+31,Coastal Treat 2,Indian,Thrissur,MG Road,4.2,20,Yes
+32,The Food Factory 2,Kerala,Bengaluru,Shoranur,4.4,23,Yes
+33,Cafe Aroma 2,Fast Food,Mumbai,MG Road,3.3,22,Yes
+34,Wok Express 2,North Indian,Palakkad,Shoranur,3.3,35,Yes
+35,Wrap World 2,Italian,Trivandrum,MG Road,4.3,33,Yes
+36,Grill Nation 2,Healthy,Hyderabad,Shoranur,4.4,56,No
+37,Kerala Flavours 2,Chinese,Kochi,MG Road,3.6,50,No
+38,Pasta Palace 2,South Indian,Kozhikode,Shoranur,3.5,26,No
+39,Fresh Feast 2,Biryani,Chennai,MG Road,3.8,46,No
+40,Chai & Snacks 2,Multi-Cuisine,Pune,Shoranur,4.7,23,Yes
+41,Spice Garden 3,Indian,Thrissur,MG Road,3.3,41,Yes
+42,Malabar Kitchen 3,Kerala,Bengaluru,Shoranur,3.6,32,No
+43,Burger Hub 3,Fast Food,Mumbai,MG Road,3.4,31,Yes
+44,Tandoori Tales 3,North Indian,Palakkad,Shoranur,4.0,24,No
+45,Pizza Point 3,Italian,Trivandrum,MG Road,4.6,55,Yes
+46,Green Bowl 3,Healthy,Hyderabad,Shoranur,3.3,54,Yes
+47,Curry House 3,Chinese,Kochi,MG Road,4.8,35,Yes
+48,Urban Bites 3,South Indian,Kozhikode,Shoranur,3.9,50,Yes
+49,Dosa Corner 3,Biryani,Chennai,MG Road,4.7,23,Yes
+50,Royal Biryani 3,Multi-Cuisine,Pune,Shoranur,3.8,44,Yes
+51,Coastal Treat 3,Indian,Thrissur,MG Road,4.8,49,Yes
+52,The Food Factory 3,Kerala,Bengaluru,Shoranur,3.9,55,No
+53,Cafe Aroma 3,Fast Food,Mumbai,MG Road,3.5,38,Yes
+54,Wok Express 3,North Indian,Palakkad,Shoranur,4.8,57,Yes
+55,Wrap World 3,Italian,Trivandrum,MG Road,4.5,23,Yes
+56,Grill Nation 3,Healthy,Hyderabad,Shoranur,4.2,52,Yes
+57,Kerala Flavours 3,Chinese,Kochi,MG Road,3.3,52,Yes
+58,Pasta Palace 3,South Indian,Kozhikode,Shoranur,4.6,24,Yes
+59,Fresh Feast 3,Biryani,Chennai,MG Road,4.3,35,No
+60,Chai & Snacks 3,Multi-Cuisine,Pune,Shoranur,3.4,56,Yes
+61,Spice Garden 4,Indian,Thrissur,MG Road,4.2,22,Yes
+62,Malabar Kitchen 4,Kerala,Bengaluru,Shoranur,3.9,57,Yes
+63,Burger Hub 4,Fast Food,Mumbai,MG Road,4.8,33,Yes
+64,Tandoori Tales 4,North Indian,Palakkad,Shoranur,3.6,45,Yes
+65,Pizza Point 4,Italian,Trivandrum,MG Road,4.3,39,No
+66,Green Bowl 4,Healthy,Hyderabad,Shoranur,3.7,24,Yes
+67,Curry House 4,Chinese,Kochi,MG Road,4.0,56,Yes
+68,Urban Bites 4,South Indian,Kozhikode,Shoranur,3.3,33,Yes
+69,Dosa Corner 4,Biryani,Chennai,MG Road,3.4,42,Yes
+70,Royal Biryani 4,Multi-Cuisine,Pune,Shoranur,4.7,43,Yes
+71,Coastal Treat 4,Indian,Thrissur,MG Road,3.5,54,Yes
+72,The Food Factory 4,Kerala,Bengaluru,Shoranur,4.2,53,Yes
+73,Cafe Aroma 4,Fast Food,Mumbai,MG Road,4.3,55,Yes
+74,Wok Express 4,North Indian,Palakkad,Shoranur,4.8,26,Yes
+75,Wrap World 4,Italian,Trivandrum,MG Road,3.6,26,Yes
+76,Grill Nation 4,Healthy,Hyderabad,Shoranur,3.7,58,Yes
+77,Kerala Flavours 4,Chinese,Kochi,MG Road,4.4,33,Yes
+78,Pasta Palace 4,South Indian,Kozhikode,Shoranur,4.1,36,Yes
+79,Fresh Feast 4,Biryani,Chennai,MG Road,3.4,47,Yes
+80,Chai & Snacks 4,Multi-Cuisine,Pune,Shoranur,3.3,41,Yes
+81,Spice Garden 5,Indian,Thrissur,MG Road,4.3,36,Yes
+82,Malabar Kitchen 5,Kerala,Bengaluru,Shoranur,4.5,55,No
+83,Burger Hub 5,Fast Food,Mumbai,MG Road,4.2,27,Yes
+84,Tandoori Tales 5,North Indian,Palakkad,Shoranur,4.8,29,Yes
+85,Pizza Point 5,Italian,Trivandrum,MG Road,4.6,57,Yes
+86,Green Bowl 5,Healthy,Hyderabad,Shoranur,3.9,22,Yes
+87,Curry House 5,Chinese,Kochi,MG Road,3.8,22,Yes
+88,Urban Bites 5,South Indian,Kozhikode,Shoranur,3.6,35,Yes
+89,Dosa Corner 5,Biryani,Chennai,MG Road,3.8,55,No
+90,Royal Biryani 5,Multi-Cuisine,Pune,Shoranur,4.9,29,Yes
+91,Coastal Treat 5,Indian,Thrissur,MG Road,4.7,31,No
+92,The Food Factory 5,Kerala,Bengaluru,Shoranur,3.2,41,No
+93,Cafe Aroma 5,Fast Food,Mumbai,MG Road,4.6,35,Yes
+94,Wok Express 5,North Indian,Palakkad,Shoranur,3.5,26,No
+95,Wrap World 5,Italian,Trivandrum,MG Road,4.7,50,Yes
+96,Grill Nation 5,Healthy,Hyderabad,Shoranur,3.5,49,Yes
+97,Kerala Flavours 5,Chinese,Kochi,MG Road,3.7,34,Yes
+98,Pasta Palace 5,South Indian,Kozhikode,Shoranur,3.2,32,No
+99,Fresh Feast 5,Biryani,Chennai,MG Road,3.8,24,Yes
+100,Chai & Snacks 5,Multi-Cuisine,Pune,Shoranur,3.8,52,No
