@@ -1,4 +1,4 @@
-![Food Delivery SQL Project]("C:\Users\USER\Downloads\ChatGPT Image Sep 6, 2026, 06_52_02 PM.png")
+
 
 # Food Delivery Data Analysis
 
